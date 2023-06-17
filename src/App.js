@@ -138,7 +138,7 @@ function App() {
     reducer,
     {}
   )
-
+  
   return (
     <div className="calculator-grid">
       <div className="output">
